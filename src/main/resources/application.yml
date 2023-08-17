@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root
+    url: jdbc:mysql://mysqldb:3306/sbms27
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: create
+      dialect: org.hibernate.dialect.MySQL57Dialect
+    show_sql: true
+  mvc:
+    view:
+      prefix: /views/
+      suffix: .jsp
+
