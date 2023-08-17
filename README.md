@@ -11,6 +11,7 @@ This repository contains a Dockerized Java Spring Boot application for a Student
 - [Application Summary](#application-summary)
   - [UI Output](#ui-output)
 - [Getting Started](#getting-started)
+- [Cleanup](#cleanup)
 - [Dependencies](#dependencies)
 
 ## Dockerization
